@@ -30,11 +30,13 @@ More parameter settings can be found in 'utils/parameters.py'.
 If you find this work useful, please cite the following:
 
 ```bib
-@article{zhou2022behavior,
-  title={Behavior-aware Account De-anonymization on Ethereum Interaction Graph},
-  author={Zhou, Jiajun and Hu, Chenkai and Chi, Jianlei and Wu, Jiajing and Shen, Meng and Xuan, Qi},
-  journal={arXiv preprint arXiv:2203.09360},
-  year={2022}
+@inproceedings{shen2021identity,
+  title={Identity inference on blockchain using graph neural network},
+  author={Shen, Jie and Zhou, Jiajun and Xie, Yunyi and Yu, Shanqing and Xuan, Qi},
+  booktitle={International Conference on Blockchain and Trustworthy Systems},
+  pages={3--17},
+  year={2021},
+  organization={Springer}
 }
 ```
 
